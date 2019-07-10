@@ -234,3 +234,6 @@ describes.sandboxed('EventManager', {}, () => {
     expect(counter).to.equal(0);
   });
 });
+
+
+// bla
